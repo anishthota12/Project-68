@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: lightblue;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+}
+
+marquee {
+    background-color: aqua;
+}
+
+#flag {
+    display: inline;
+}
